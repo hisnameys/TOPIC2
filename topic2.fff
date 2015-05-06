@@ -1,0 +1,13 @@
+\begin{figure}[t]
+\begin{center}
+\noindent\includegraphics[width=39pc,angle=0]{f1.pdf}
+\caption{a) Linear cross-dissolve weights for extrapolation. Note that weights start at 1 regardless of intensity at 0 h and steadily decrease to 0 at maximum forecast length.
+b) Linear cross-dissolve weights for HRRR model. Note that weights start at 0 regardless of intensity at 0 h and steadily increase to 1 at maximum forecast length.
+c) Salient cross-dissolve weights ($w_{s}$) for extrapolation. Note that the weight of high intensity pixels (ranked saliency, $r$=$y$ axis, close to 1.0) remain high throughout the time period where low intensity pixels are dampened more quickly
+d) Salient cross-dissolve weights ($w_{s}$) for model. The high intensity pixels ($r$ is close to 0) remain high throughout the time period.
+}
+\label{f1}
+\end{center}
+\end{figure}
+\efloatseparator
+ 
