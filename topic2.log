@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  6 MAY 2015 15:32
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  7 MAY 2015 15:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -350,11 +350,11 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 22.
+LaTeX Font Info:    Try loading font information for U+msa on input line 21.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 22.
+LaTeX Font Info:    Try loading font information for U+msb on input line 21.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -371,354 +371,56 @@ map/pdftex.map}
 
 
 
-]
-
-Package natbib Warning: Citation `sheth++13' on page 1 undefined on input line 
-31.
-
-
-Package natbib Warning: Citation `robinson08' on page 1 undefined on input line
- 31.
-
-
-Package natbib Warning: Citation `pinto++10' on page 1 undefined on input line 
-31.
-
-[1]
-
-Package natbib Warning: Citation `fahey++06' on page 2 undefined on input line 
-33.
-
-
-Package natbib Warning: Citation `song++08' on page 2 undefined on input line 3
-3.
-
-
-Package natbib Warning: Citation `dixon93' on page 2 undefined on input line 35
-.
-
-
-Package natbib Warning: Citation `li95' on page 2 undefined on input line 35.
-
-
-Package natbib Warning: Citation `germann02' on page 2 undefined on input line 
-35.
-
-
-Package natbib Warning: Citation `germann04' on page 2 undefined on input line 
-35.
-
-
-Package natbib Warning: Citation `manda++12' on page 2 undefined on input line 
-35.
-
-
-Package natbib Warning: Citation `stratman2013' on page 2 undefined on input li
-ne 35.
-
-
-Package natbib Warning: Citation `manda++12' on page 2 undefined on input line 
-37.
-
-
-Package natbib Warning: Citation `germann02' on page 2 undefined on input line 
-37.
-
-
-Package natbib Warning: Citation `lin++05' on page 2 undefined on input line 37
-.
-
-
-Package natbib Warning: Citation `germann02' on page 2 undefined on input line 
-37.
-
-[2]
-
-Package natbib Warning: Citation `wolfson08' on page 3 undefined on input line 
-39.
-
-
-Package natbib Warning: Citation `dupree09' on page 3 undefined on input line 3
-9.
-
-
-Package natbib Warning: Citation `pinto++10' on page 3 undefined on input line 
-39.
-
-
-Package natbib Warning: Citation `pinto++10' on page 3 undefined on input line 
-41.
-
-[3]
-
-Package natbib Warning: Citation `pinto++10' on page 4 undefined on input line 
-43.
-
-
-Package natbib Warning: Citation `sun14' on page 4 undefined on input line 43.
-
-[4]
-
-Package natbib Warning: Citation `lak++13' on page 5 undefined on input line 53
-.
-
-
-Package natbib Warning: Citation `mat+10' on page 5 undefined on input line 53.
-
-
-
-Package natbib Warning: Citation `sheth++13' on page 5 undefined on input line 
-53.
-
-
-Package natbib Warning: Citation `brown++11' on page 5 undefined on input line 
-55.
-
-
-Package natbib Warning: Citation `wey++11' on page 5 undefined on input line 55
-.
-
-
-Package natbib Warning: Citation `huang+93' on page 5 undefined on input line 5
-5.
-
-
-Package natbib Warning: Citation `skam++08' on page 5 undefined on input line 5
-5.
-
-
-Package natbib Warning: Citation `chou94' on page 5 undefined on input line 56.
-
-
-
-Package natbib Warning: Citation `mlawer++97' on page 5 undefined on input line
- 57.
-
-
-Package natbib Warning: Citation `smirnova++97' on page 5 undefined on input li
-ne 58.
-
-
-Package natbib Warning: Citation `nakanishi04' on page 5 undefined on input lin
-e 59.
-
-
-Package natbib Warning: Citation `thompson++08' on page 5 undefined on input li
-ne 60.
-
-[5]
-
-Package natbib Warning: Citation `manda++12' on page 6 undefined on input line 
-66.
-
-
-Package natbib Warning: Citation `li95' on page 6 undefined on input line 66.
-
-
-Package natbib Warning: Citation `sasaki58' on page 6 undefined on input line 6
-6.
-
-
-Package natbib Warning: Citation `sasaki70' on page 6 undefined on input line 6
-6.
-
-
-Package natbib Warning: Citation `dixon93' on page 6 undefined on input line 66
-.
-
-
-Package natbib Warning: Citation `germann02' on page 6 undefined on input line 
-66.
-
-
-Package natbib Warning: Citation `germann04' on page 6 undefined on input line 
-66.
-
-[6]
-
-Package natbib Warning: Citation `lak++06' on page 7 undefined on input line 68
-.
-
-
-Package natbib Warning: Citation `lak09eff' on page 7 undefined on input line 6
-9.
-
-
-Package natbib Warning: Citation `lak10object' on page 7 undefined on input lin
-e 69.
-
-
-Package natbib Warning: Citation `lak++03' on page 7 undefined on input line 69
-.
-
-[7]
-Overfull \hbox (6.99423pt too wide) in paragraph at lines 107--108
+] [1] [2] [3]
+Overfull \hbox (6.99423pt too wide) in paragraph at lines 76--77
 []\OT1/cmr/m/n/12 Linear cross-dissolve is a commonly-employed blend-ing method
  that com-putes the weighted
  []
 
 
-LaTeX Warning: Reference `f1' on page 8 undefined on input line 111.
+LaTeX Warning: Reference `f1' on page 4 undefined on input line 80.
 
 
-LaTeX Warning: Reference `f1' on page 8 undefined on input line 111.
+LaTeX Warning: Reference `f1' on page 4 undefined on input line 80.
 
-[8]
 
-LaTeX Warning: Reference `f2' on page 9 undefined on input line 115.
+LaTeX Warning: Reference `f2' on page 4 undefined on input line 84.
 
 
-LaTeX Warning: Reference `f2' on page 9 undefined on input line 115.
+LaTeX Warning: Reference `f2' on page 4 undefined on input line 84.
 
-
-LaTeX Warning: Reference `f2' on page 9 undefined on input line 117.
-
-[9]
-
-Package natbib Warning: Citation `grund++06' on page 10 undefined on input line
- 120.
-
-
-LaTeX Warning: Reference `f1' on page 10 undefined on input line 128.
-
-
-LaTeX Warning: Reference `f1' on page 10 undefined on input line 128.
-
-[10]
-
-LaTeX Warning: Reference `f2' on page 11 undefined on input line 137.
-
-
-LaTeX Warning: Reference `f1' on page 11 undefined on input line 137.
-
-
-LaTeX Warning: Reference `f1' on page 11 undefined on input line 137.
-
-
-Package natbib Warning: Citation `mat+10' on page 11 undefined on input line 14
-0.
-
-
-Package natbib Warning: Citation `clark++10' on page 11 undefined on input line
- 140.
-
-[11]
-
-LaTeX Warning: Reference `f4' on page 12 undefined on input line 142.
-
-
-LaTeX Warning: Reference `f5' on page 12 undefined on input line 144.
-
-
-LaTeX Warning: Reference `f6' on page 12 undefined on input line 144.
-
-
-LaTeX Warning: Reference `f6' on page 12 undefined on input line 144.
-
-[12]
-
-Package natbib Warning: Citation `wilks11' on page 13 undefined on input line 1
-46.
-
-
-Package natbib Warning: Citation `hamill99' on page 13 undefined on input line 
-162.
-
-
-Package natbib Warning: Citation `hamill99' on page 13 undefined on input line 
-165.
-
-
-Package natbib Warning: Citation `hamill99' on page 13 undefined on input line 
-165.
-
-[13]
-
-LaTeX Warning: Reference `f3' on page 14 undefined on input line 169.
-
-
-LaTeX Warning: Reference `f3' on page 14 undefined on input line 171.
-
-[14]
-
-LaTeX Warning: Reference `f7' on page 15 undefined on input line 174.
-
-
-LaTeX Warning: Reference `f11' on page 15 undefined on input line 176.
-
-[15]
-
-Package natbib Warning: Citation `jenkner08' on page 16 undefined on input line
- 178.
-
-
-Package natbib Warning: Citation `clark11' on page 16 undefined on input line 1
-78.
-
-
-LaTeX Warning: Reference `f7' on page 16 undefined on input line 178.
-
-
-LaTeX Warning: Reference `f9' on page 16 undefined on input line 180.
-
-
-Package natbib Warning: Citation `hamill99' on page 16 undefined on input line 
-183.
-
-
-LaTeX Warning: Reference `f12' on page 16 undefined on input line 183.
-
-
-LaTeX Warning: Reference `f12' on page 16 undefined on input line 185.
-
-
-LaTeX Warning: Reference `f12' on page 16 undefined on input line 185.
-
-
-LaTeX Warning: Reference `f12' on page 16 undefined on input line 185.
-
-[16] [17] [18]
-No file topic2.bbl.
-
-Package natbib Warning: There were undefined citations.
-
-AED endfloat: Processing end Figures and Tables (./topic2.aux)
+[4] [5] [6] [7] (./topic2.bbl [8] [9] [10])
+AED endfloat: Processing end Figures and Tables [11] (./topic2.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 4092 strings out of 493488
- 54380 string characters out of 3141326
- 123178 words of memory out of 3000000
- 7301 multiletter control sequences out of 15000+200000
- 20349 words of font info for 75 fonts, out of 3000000 for 9000
+ 4136 strings out of 493488
+ 55463 string characters out of 3141326
+ 123733 words of memory out of 3000000
+ 7344 multiletter control sequences out of 15000+200000
+ 20180 words of font info for 74 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,14n,45p,2123b,309s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loca
-l/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
-exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
-ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texliv
-e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
-/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2
-012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/201
-2/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2012
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on topic2.pdf (19 pages, 221446 bytes).
+></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
+al/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texli
+ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/
+2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on topic2.pdf (12 pages, 180534 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
+ 99 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

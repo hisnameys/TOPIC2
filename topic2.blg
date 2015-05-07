@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: topic2.aux
+The style file: ametsoc.bst
+Database file #1: yunsung.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 29 entries,
+            3486 wiz_defined-function locations,
+            848 strings with 10590 characters,
+and the built_in function-call counts, 32287 in all, are:
+= -- 3845
+> -- 1019
+< -- 12
++ -- 611
+- -- 249
+* -- 1737
+:= -- 3194
+add.period$ -- 58
+call.type$ -- 29
+change.case$ -- 227
+chr.to.int$ -- 27
+cite$ -- 29
+duplicate$ -- 3339
+empty$ -- 1723
+format.name$ -- 352
+if$ -- 6545
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 313
+newline$ -- 97
+num.names$ -- 116
+pop$ -- 1523
+preamble$ -- 1
+purify$ -- 197
+quote$ -- 0
+skip$ -- 1927
+stack$ -- 0
+substring$ -- 1574
+swap$ -- 2793
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 261
+warning$ -- 0
+while$ -- 160
+width$ -- 0
+write$ -- 325

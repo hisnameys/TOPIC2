@@ -1,0 +1,174 @@
+\begin{thebibliography}{29}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Brown et~al.(2011)}]{brown++11}
+Brown, J.~M., et~al., 2011: Improvement and testing of {WRF} physics options
+  for application to {Rapid Refresh and High Resolution Rapid Refresh}.
+  \textit{15th Conference on Aviation, Range, and Aerospace Meteorology}.
+
+\bibitem[{Chou and Suarez(1994)}]{chou94}
+Chou, M.-D. and M.~J. Suarez, 1994: An efficient thermal infrared radiation
+  parameterization for use in general circulation models. \textit{NASA Tech.
+  Memo}, \textbf{104606~(3)}, 85.
+
+\bibitem[{Dixon and Wiener(1993)}]{dixon93}
+Dixon, M. and G.~Wiener, 1993: {TITAN: Thunderstorm Identification, Tracking,
+  Analysis, and Nowcasting-A radar-based methodology}. \textit{Journal of
+  Atmospheric and Oceanic Technology}, \textbf{10~(6)}, 785--797.
+
+\bibitem[{Germann and Zawadzki(2002{\natexlab{a}})}]{maple1method}
+Germann, U. and I.~Zawadzki, 2002{\natexlab{a}}: Scale-dependence of the
+  predictability of precipitation from continental radar images. part i:
+  Description of the methodology. \textit{Monthly Weather Review},
+  \textbf{130~(12)}, 2859--2873.
+
+\bibitem[{Germann and Zawadzki(2002{\natexlab{b}})}]{germann02}
+Germann, U. and I.~Zawadzki, 2002{\natexlab{b}}: Scale-dependence of the
+  predictability of precipitation from continental radar images. {Part I}:
+  Description of the methodology. \textit{Monthly Weather Review},
+  \textbf{130~(12)}, 2859--2873.
+
+\bibitem[{Germann and Zawadzki(2004{\natexlab{a}})}]{maple2probfcst}
+Germann, U. and I.~Zawadzki, 2004{\natexlab{a}}: Scale dependence of the
+  predictability of precipitation from continental radar images. part ii:
+  Probability forecasts. \textit{Journal of Applied Meteorology},
+  \textbf{43~(1)}, 74--89.
+
+\bibitem[{Germann and Zawadzki(2004{\natexlab{b}})}]{germann04}
+Germann, U. and I.~Zawadzki, 2004{\natexlab{b}}: Scale dependence of the
+  predictability of precipitation from continental radar images. {Part II}:
+  Probability forecasts. \textit{Journal of Applied Meteorology},
+  \textbf{43~(1)}, 74--89.
+
+\bibitem[{Germann et~al.(2006)Germann, Zawadzki, and Turner}]{maple4limit}
+Germann, U., I.~Zawadzki, and B.~Turner, 2006: Predictability of precipitation
+  from continental radar images. part iv: Limits to prediction. \textit{Journal
+  of the atmospheric sciences}, \textbf{63~(8)}, 2092--2108.
+
+\bibitem[{Huang and Lynch(1993)}]{huang+93}
+Huang, X.-Y. and P.~Lynch, 1993: Diabatic digital-filtering initialization:
+  Application to the {HIRLAM} model. \textit{Monthly weather review},
+  \textbf{121~(2)}, 589--603.
+
+\bibitem[{Lakshmanan et~al.(2013)Lakshmanan, Hondl, Potvin, and
+  Preignitz}]{lak++13}
+Lakshmanan, V., K.~Hondl, C.~K. Potvin, and D.~Preignitz, 2013: An improved
+  method for estimating radar echo-top height. \textit{Weather and
+  Forecasting}, \textbf{28~(2)}, 481--488.
+
+\bibitem[{Lakshmanan et~al.(2009)Lakshmanan, Hondl, and Rabin}]{lak09eff}
+Lakshmanan, V., K.~Hondl, and R.~Rabin, 2009: An efficient, general-purpose
+  technique for identifying storm cells in geospatial images. \textit{Journal
+  of Atmospheric and Oceanic Technology}, \textbf{26~(3)}, 523--537.
+
+\bibitem[{Lakshmanan et~al.(2003)Lakshmanan, Rabin, and DeBrunner}]{lak++03}
+Lakshmanan, V., R.~Rabin, and V.~DeBrunner, 2003: Multiscale storm
+  identification and forecast. \textit{J. Atmos. Res.}, \textbf{67-68},
+  367--380.
+
+\bibitem[{Lakshmanan and Smith(2010)}]{lak10object}
+Lakshmanan, V. and T.~Smith, 2010: An objective method of evaluating and
+  devising storm-tracking algorithms. \textit{Weather and Forecasting},
+  \textbf{25~(2)}, 701--709.
+
+\bibitem[{Lakshmanan et~al.(2006)Lakshmanan, Smith, Hondl, Stumpf, and
+  Witt}]{lak++06}
+Lakshmanan, V., T.~Smith, K.~Hondl, G.~J. Stumpf, and A.~Witt, 2006: A
+  real-time, three-dimensional, rapidly updating, heterogeneous radar merger
+  technique for reflectivity, velocity, and derived products. \textit{Weather
+  and Forecasting}, \textbf{21~(5)}, 802--823.
+
+\bibitem[{Li et~al.(1995)Li, Schmid, and Joss}]{li95}
+Li, L., W.~Schmid, and J.~Joss, 1995: Nowcasting of motion and growth of
+  precipitation with radar over a complex orography. \textit{Journal of applied
+  meteorology}, \textbf{34~(6)}, 1286--1300.
+
+\bibitem[{Lu et~al.(2007)Lu, Yuan, Schwartz, and Benjamin}]{timelagNWP}
+Lu, C., H.~Yuan, B.~E. Schwartz, and S.~G. Benjamin, 2007: Short-range
+  numerical weather prediction using time-lagged ensembles. \textit{Weather and
+  Forecasting}, \textbf{22~(3)}, 580--595.
+
+\bibitem[{Mandapaka et~al.(2012)Mandapaka, Germann, Panziera, and
+  Hering}]{manda++12}
+Mandapaka, P.~V., U.~Germann, L.~Panziera, and A.~Hering, 2012: Can lagrangian
+  extrapolation of radar fields be used for precipitation nowcasting over
+  complex alpine orography? \textit{Weather and Forecasting}, \textbf{27~(1)},
+  28--49.
+
+\bibitem[{Matthews and DeLaura(2010)}]{mat+10}
+Matthews, M. and R.~DeLaura, 2010: Assessment and interpretation of en route
+  weather avoidance fields from the convective weather avoidance model.
+  \textit{10th AIAA Aviation Technology, Integration, and Operations (ATIO)
+  Conference, Fort Worth, TX}.
+
+\bibitem[{Mlawer et~al.(1997)Mlawer, Taubman, Brown, Iacono, and
+  Clough}]{mlawer++97}
+Mlawer, E.~J., S.~J. Taubman, P.~D. Brown, M.~J. Iacono, and S.~A. Clough,
+  1997: Radiative transfer for inhomogeneous atmospheres: {RRTM}, a validated
+  correlated-k model for the longwave. \textit{Journal of Geophysical Research:
+  Atmospheres (1984--2012)}, \textbf{102~(D14)}, 16\,663--16\,682.
+
+\bibitem[{Nakanishi and Niino(2004)}]{nakanishi04}
+Nakanishi, M. and H.~Niino, 2004: An improved {Mellor-Yamada level-3} model
+  with condensation physics: Its design and verification.
+  \textit{Boundary-layer meteorology}, \textbf{112~(1)}, 1--31.
+
+\bibitem[{Radhakrishna et~al.(2012)Radhakrishna, Zawadzki, and
+  Fabry}]{maple5growthdecay}
+Radhakrishna, B., I.~Zawadzki, and F.~Fabry, 2012: Predictability of
+  precipitation from continental radar images. part v: Growth and decay.
+  \textit{Journal of the Atmospheric Sciences}, \textbf{69~(11)}, 3336--3349.
+
+\bibitem[{Sasaki(1958)}]{sasaki58}
+Sasaki, Y., 1958: An objective analysis based on the variational method.
+  \textit{J. Meteor. Soc. Japan}, \textbf{36~(3)}, 77--88.
+
+\bibitem[{Sasaki(1970)}]{sasaki70}
+Sasaki, Y., 1970: Some basic formalisms in numerical variational analysis.
+  \textit{Monthly Weather Review}, \textbf{98~(12)}, 875--883.
+
+\bibitem[{Sheth et~al.(2013)Sheth, Amis, Gutierrez-Nolasco, Spridhar, and
+  Mulfinger}]{sheth++13}
+Sheth, K., T.~Amis, S.~Gutierrez-Nolasco, B.~Spridhar, and D.~Mulfinger, 2013:
+  Development of a probabilistic convective weather forecast threshold
+  parameter for flight-routing decisions. \textit{Wea. Forecasting},
+  \textbf{28}, 1175--1187.
+
+\bibitem[{Skamarock et~al.(2008)Skamarock, Klemp, Dudhia, Gill, and
+  Barker}]{skam++08}
+Skamarock, W., J.~Klemp, J.~Dudhia, D.~Gill, and D.~Barker, 2008: A description
+  of the {Advanced Research WRF Version 3}. Tech. rep., {NCAR Technical Note:
+  NCAR/TN-475+ STR}.
+
+\bibitem[{Smirnova et~al.(1997)Smirnova, Brown, and Benjamin}]{smirnova++97}
+Smirnova, T., J.~Brown, and S.~Benjamin, 1997: Evolution of soil moisture and
+  temperature in the {MAPS/RUC} assimilation cycle. \textit{Preprints, 13th
+  Conf. on Hydrology, Long Beach, CA, Amer. Meteor. Soc}, 172--175.
+
+\bibitem[{Thompson et~al.(2008)Thompson, Field, Rasmussen, and
+  Hall}]{thompson++08}
+Thompson, G., P.~R. Field, R.~M. Rasmussen, and W.~D. Hall, 2008: {Explicit
+  forecasts of winter precipitation using an improved bulk microphysics scheme.
+  Part II: Implementation of a new snow parameterization}. \textit{Monthly
+  Weather Review}, \textbf{136~(12)}, 5095--5115.
+
+\bibitem[{Turner et~al.(2004)Turner, Zawadzki, and Germann}]{maple3opr}
+Turner, B., I.~Zawadzki, and U.~Germann, 2004: Predictability of precipitation
+  from continental radar images. part iii: Operational nowcasting
+  implementation (maple). \textit{Journal of Applied Meteorology},
+  \textbf{43~(2)}, 231--248.
+
+\bibitem[{Weygandt et~al.(2011)}]{wey++11}
+Weygandt, S.~S., et~al., 2011: Evaluation of the {National Centers for
+  Environmental Prediction (NCEP) implementation version of the Rapid Refresh}
+  and its skill in providing short-term guidance for aviation hazards.
+  \textit{15th Conference on Aviation, Range, and Aerospace Meteorology}.
+
+\end{thebibliography}
